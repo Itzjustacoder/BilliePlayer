@@ -312,13 +312,13 @@ html.js,
 .grid__link {
     position: relative;
     display: block;
-    color: #ffffff;
+    color: #474283;
     -webkit-perspective: 1200px;
     perspective: 1200px;
 }
 
 .grid__link:hover {
-    color: #ffffff;
+    color: #474283;
     outline: none;
 }
 
@@ -382,7 +382,7 @@ html.js,
     right: 0;
     margin: -1em -1em 0 0;
     padding: 0.3em 0.5em;
-    color: #ffffff;
+    color: #474283;
     border: 2px solid;
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
@@ -1090,3 +1090,4 @@ we use margins because transforms will be applied dynamically */
     }
 
 }
+
