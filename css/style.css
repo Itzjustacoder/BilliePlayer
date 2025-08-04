@@ -312,7 +312,7 @@ html.js,
 .grid__link {
     position: relative;
     display: block;
-    color: #474283;
+    color: #ffffff;
     -webkit-perspective: 1200px;
     perspective: 1200px;
 }
@@ -366,7 +366,6 @@ html.js,
     font-size: 0.85em;
     font-weight: normal;
     margin: 1em 0 0.5em;
-    color: #ffffff;
 }
 
 .title {
