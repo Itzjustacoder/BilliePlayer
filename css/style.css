@@ -816,6 +816,13 @@ html.js,
     pointer-events: none;
 }
 
+.player-scale {
+  transform: scale(0.5);        /* Change this number to adjust size */
+  transform-origin: top center; /* Keeps the player centered */
+  width: fit-content;
+  margin: 0 auto;
+}
+
 .player__element {
     position: absolute;
     top: 50%;
