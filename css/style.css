@@ -465,6 +465,13 @@ html.js,
     min-height: 100vh;
 }
 
+.single-scale {
+  transform: scale(0.5);         /* Change this to 0.7, 0.6 etc. as needed */
+  transform-origin: top center;
+  width: fit-content;
+  margin: 0 auto;
+}
+
 .no-js .single {
     text-align: center;
 }
