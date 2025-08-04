@@ -86,9 +86,9 @@ html.js,
     position: fixed;
     top: 50%;
     left: 50%;
-    width: 80vmin;
-    height: 80vmin;
-    margin: -40vmin 0 0 -40vmin;
+    width: 40vmin;
+    height: 40vmin;
+    margin: -480vmin 0 0 -30vmin;
 }
 
 .view--player {
@@ -97,11 +97,11 @@ html.js,
 
 .js .view--player {
     position: fixed;
-    top: 0;
+    top: 7vmin;
     left: 0;
     display: block;
-    width: 100vw;
-    height: 100%;
+    width: 60vw;
+    height: 90vh;
 }
 
 .js .view--current {
@@ -688,8 +688,8 @@ html.js,
 .control-button--back {
     font-size: 3vmin;
     position: fixed;
-    top: 2vmin;
-    left: 3vmin;
+    top: 7vmin;
+    left: 40vmin;
     color: #1690c1;
     -webkit-transition: opacity 0.3s;
     transition: opacity 0.3s;
