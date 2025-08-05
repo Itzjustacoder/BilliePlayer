@@ -98,7 +98,7 @@ html.js,
 .js .view--player {
     position: fixed;
     top: 0;
-    left: 0;
+    left: 140px;
     display: block;
     width: 100vw;
     height: 100%;
@@ -731,7 +731,7 @@ html.js,
   transform-origin: top left;
   position: absolute;
   top: 0;
-  left: 0;
+  left: 100px;
 }
 
 .effects {
@@ -739,8 +739,8 @@ html.js,
 }
 
 .player__controls {
-    top: 400px;
-    left:-200px;
+    top: 500px;
+    left:-55px;
     height:fit-content;
 }
 .visualizer {
@@ -780,8 +780,7 @@ html.js,
 
 .visualizer {
     position: absolute;
-    top: 3vmin;
-    right: 4vmin;
+    top: 500px;
     width: 185px;
     height: 25px;
     border: 1px solid;
@@ -1004,7 +1003,7 @@ we use margins because transforms will be applied dynamically */
 
 .effects {
     position: absolute;
-    top: 10vmin;
+    top: 15vmin;
     right: 0;
     bottom: 5vmin;
     display: -webkit-box;
@@ -1107,6 +1106,7 @@ we use margins because transforms will be applied dynamically */
     }
     .control-button--back {
         font-size: 5vmin;
+	left: 100px;
     }
     .player-info {
         max-width: none;
