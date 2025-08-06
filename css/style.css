@@ -97,8 +97,8 @@ html.js,
 
 .js .view--player {
     position: fixed;
-    top: 0;
-    left: 140px;
+    top: 100px;
+    left: 210px;
     display: block;
     width: 100vw;
     height: 100%;
@@ -688,8 +688,8 @@ html.js,
 .control-button--back {
     font-size: 3vmin;
     position: fixed;
-    top: 7vmin;
-    left: 40vmin;
+    top: 8vmin;
+    left: 30vmin;
     color: #1690c1;
     -webkit-transition: opacity 0.3s;
     transition: opacity 0.3s;
@@ -748,7 +748,7 @@ html.js,
     transform-origin: top left;
     position: absolute;
     top: 10px;
-    left: 300px;
+    left: 400px;
 }
 
 .view--player {
