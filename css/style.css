@@ -28,7 +28,7 @@ body {
     background: transparent;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-transform: uppercase; /* Add this line */
+    text-transform: uppercase; /* Add this line or don't */
 }
 
 a {
