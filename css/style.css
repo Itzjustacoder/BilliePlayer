@@ -312,13 +312,13 @@ html.js,
 .grid__link {
     position: relative;
     display: block;
-    color: #474283;
+    color: #ffffff;
     -webkit-perspective: 1200px;
     perspective: 1200px;
 }
 
 .grid__link:hover {
-    color: #474283;
+    color: #ffffff;
     outline: none;
 }
 
@@ -382,7 +382,7 @@ html.js,
     right: 0;
     margin: -1em -1em 0 0;
     padding: 0.3em 0.5em;
-    color: #474283;
+    color: #ffffff;
     border: 2px solid;
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
@@ -521,7 +521,7 @@ html.js,
 .number,
 .artist--single,
 .title--single {
-    color: #fff;
+    color: #ffffff;
     /**text-shadow: 1px 11px 3vmin rgba(0,0,0,0.3);*/
 }
 
